@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋! I'm Praise, welcome to my GitHub.
+<hr>
+
+👩‍💻 I am a Full-stack developer with a degree in Electrical Engineering.
 
 <!--
 **praizerema/Praizerema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
