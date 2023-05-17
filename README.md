@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Praise, welcome to my GitHub.
+### Hi there 👋! I'm Praise, welcome to my GitHub Account.
 <hr>
 
 👩‍💻 I am a Full-stack developer with a degree in Electrical Engineering.
